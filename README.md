@@ -1,5 +1,3 @@
-                                                           # Hello World!
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F37F28&center=true&vCenter=true&width=500&lines=Building+the+future+with+AI;Software+Developer+from+Sweden;Passionate+about+Clean+Code;Innovating+with+TypeScript+%26+C%23)](https://gitgit.me/nrnworld)
 
 
