@@ -25,10 +25,15 @@
 
   ### Featured Projects
 
-  | OctosArmy | WindowsSmartTaskbar | NOBreak-Audio-Builder |
-  | :--- | :--- | :--- |
-  | [OctosArmy](https://github.com/nRn-World/OctosArmy) | [WindowsSmartTaskbar](https://github.com/nRn-World/WindowsSmartTaskbar) | [NOBreak-Audio-Builder](https://github.com/nRn-World/NOBreak-Audio-Builder) |
-  | A highly secure AI system. | A sleek Windows utility. | Professional Audio Builder. |
+  | OctosArmy | WindowsSmartTaskbar |
+  | :--- | :--- |
+  | [OctosArmy](https://github.com/nRn-World/OctosArmy) | [WindowsSmartTaskbar](https://github.com/nRn-World/WindowsSmartTaskbar) |
+  | A highly secure AI system. | A sleek Windows utility. |
+
+  | NOBreak-Audio-Builder | PrivateLinkSaver |
+  | :--- | :--- |
+  | [NOBreak-Audio-Builder](https://github.com/nRn-World/NOBreak-Audio-Builder) | [PrivateLinkSaver](https://github.com/nRn-World/PrivateLinkSaver) |
+  | Professional Audio Builder. | Secure link management. |
 
   ---
 
