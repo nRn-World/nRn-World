@@ -12,6 +12,13 @@ By using AI as my co-pilot in development, I focus on maximum creativity and hel
 [![GitHub](https://img.shields.io/badge/GitHub-nRn--World-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nRn-World)
 [![Location](https://img.shields.io/badge/Based_in-Sweden-006AA7?style=for-the-badge&logo=sweden&logoColor=white)](https://nrnworld.one)
 
+<!-- galaga -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph.svg">
+</picture>
+
 </div>
 
 ---
@@ -30,19 +37,6 @@ I ship practical software with clean architecture, strong UX, and a bias toward 
 | **AI-Driven Development** | LLMs, multi-agent systems, and autonomous workflows that turn ideas into working products faster |
 | **Desktop Applications** | High-performance Windows utilities in C# with a focus on speed, reliability, and clean UI |
 | **Web & Extensions** | Secure, privacy-focused browser extensions and modern web apps in TypeScript |
-
----
-
-### Contribution Graph · Galaga
-
-<!-- galaga -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph.svg">
-  </picture>
-</p>
 
 ---
 
