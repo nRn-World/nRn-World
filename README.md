@@ -12,11 +12,11 @@ By using AI as my co-pilot in development, I focus on maximum creativity and hel
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nRn-World)
 [![Location](https://img.shields.io/badge/Based_in_Sweden-006AA7?style=for-the-badge)](https://nrnworld.one)
 
-<!-- galaga -->
+<!-- pacman -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/nRn-World/nRn-World/output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nRn-World/nRn-World/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nRn-World/nRn-World/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
