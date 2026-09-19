@@ -9,7 +9,7 @@ By using AI as my co-pilot in development, I focus on maximum creativity and hel
 
 [![Website](https://img.shields.io/badge/Website-F37F28?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nrnworld.one)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/RobinAyzit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nRn-World)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/nRn-World](https://github.com/nRn-World?tab=repositories))
 [![Location](https://img.shields.io/badge/Based_in_Sweden-006AA7?style=for-the-badge)](https://nrnworld.one)
 
 <!-- pacman -->
