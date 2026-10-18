@@ -4,10 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F37F28&center=true&vCenter=true&width=640&lines=Building+the+future+with+AI;Software+Developer+from+Sweden;Passionate+about+Clean+Code;Innovating+with+TypeScript+%26+C%23)](https://nrnworld.one)
 
-**nRn World** — I dream. I build. I share.
-
-I see AI as the ultimate tool for building the future.
-By using AI as my co-pilot in development, I focus on maximum creativity and helping others.
+I dream. I build. I share.
 
 [![Website](https://img.shields.io/badge/Website-F37F28?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nrnworld.one)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/RobinAyzit)
