@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/orbit.svg" alt="nRn World – projects in orbit around a dithered portrait" width="100%">
+<img src="assets/orbit.webp" alt="nRn World – projects in orbit around a dithered portrait" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F37F28&center=true&vCenter=true&width=640&lines=Building+the+future+with+AI;Software+Developer+from+Sweden;Passionate+about+Clean+Code;Innovating+with+TypeScript+%26+C%23)](https://nrnworld.one)
 
