@@ -23,8 +23,13 @@ I dream. I build. I share.
 
 ### About
 
-Full-stack minded builder focused on **AI-driven products**, polished desktop tools, and privacy-first web experiences.
-I ship practical software with clean architecture, strong UX, and a bias toward automation.
+My name is Robin. I was born in 1986 and have a deep passion for music, coding, and constantly learning new things, but just as important to me is being able to share knowledge and help others grow through what I build.
+
+Every project I create is shared openly and free of charge for educational purposes. You are welcome to study, learn from, and build upon my work, as long as it is not used for commercial profit without permission.
+
+Outside of code, I love football, whether watching a match live or from the sofa. I am generally a calm person who prefers to think things through before speaking, and I value quality over noise.
+
+Today I work in the data center industry. My biggest dream is to one day earn a living from the projects I create, something that has not happened yet, but it is what drives me to keep building, improving, and sharing through nRnWorld.
 
 ---
 
